@@ -1,9 +1,10 @@
 # Odyssey Side Quest: Deploying with Railway
 
-Welcome to the companion app of Odyssey Lift-off V (server)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
+Welcome to the companion app of Odyssey Side Quest: Deploying an Apollo app with Railway (server)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/side-quest-deploy), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
 
+TODO
 You can [find the client counterpart here](https://github.com/apollographql/odyssey-lift-off-part5-client).
 
 ## How to use this repo
@@ -20,6 +21,8 @@ To get started:
 This will start the GraphQL API server.
 
 To check the **final** stage of the server, with all of the steps and code completed, checkout the `final` branch by running the following command in your terminal:
+
+TODO
 
 ```bash
 git checkout final
