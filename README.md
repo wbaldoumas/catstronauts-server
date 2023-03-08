@@ -1,11 +1,12 @@
-# Odyssey Side Quest: Deploying with Railway
+# Odyssey Side Quest: Deploy Catstronauts server with Railway
 
-Welcome to the companion app of Odyssey Side Quest: Deploying an Apollo app with Railway (server)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/side-quest-deploy), Apollo's learning platform.
+Welcome to the companion app of Side Quest: Deploying an Apollo app with Railway! You can [find the course lessons and instructions on Odyssey](https://apollographql.com/tutorials/side-quest-deploy-railway), Apollo's learning platform.
 
-You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
+You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/), and [the source code here](https://github.com/apollographql-education/odyssey-side-quest-deploy-client).
 
-TODO
-You can [find the client counterpart here](https://github.com/apollographql/odyssey-lift-off-part5-client).
+## Deploy to Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/PzBNNs)
 
 ## How to use this repo
 
